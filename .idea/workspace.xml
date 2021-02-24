@@ -51,6 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS pratybos lentele" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,7 +64,7 @@
       <updated>1604906745930</updated>
       <workItem from="1604906747162" duration="19983000" />
       <workItem from="1605017331333" duration="76000" />
-      <workItem from="1614151513485" duration="308000" />
+      <workItem from="1614151513485" duration="630000" />
     </task>
     <task id="LOCAL−00001" summary="To do list">
       <created>1605017520092</created>

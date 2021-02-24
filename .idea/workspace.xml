@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d54ad8c4-e4fe-4d79-ad68-ae15cc468b30" name="Default Changelist" comment="To do list papild">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k2looQhnfrFjfIDQ07nHO0iBf8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS pratybos lentele" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d54ad8c4-e4fe-4d79-ad68-ae15cc468b30" name="Default Changelist" comment="" />
+      <created>1604906745930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604906745930</updated>
+      <workItem from="1604906747162" duration="19983000" />
+      <workItem from="1605017331333" duration="76000" />
+    </task>
+    <task id="LOCAL−00001" summary="To do list">
+      <created>1605017520092</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1605017520092</updated>
+    </task>
+    <task id="LOCAL−00002" summary="To do list papild">
+      <created>1605080990017</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1605080990018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="To do list" />
+    <MESSAGE value="To do list papild" />
+    <option name="LAST_COMMIT_MESSAGE" value="To do list papild" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="130" key="FileChooserDialogImpl" timestamp="1605041405774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="130" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605041405774" />
+    <state x="476" y="114" key="Vcs.Push.Dialog.v2" timestamp="1605080991983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="114" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605080991983" />
+    <state x="612" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605038613689">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="612" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605038613689" />
+  </component>
+</project>

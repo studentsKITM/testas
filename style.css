@@ -1,0 +1,13 @@
+html, body{
+    height: 100%;
+}
+
+#addButton{
+    width: 80px;
+    height: 40px;
+}
+body{
+    background: url("img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

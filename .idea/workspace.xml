@@ -6,15 +6,20 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d54ad8c4-e4fe-4d79-ad68-ae15cc468b30" name="Default Changelist" comment="To do list papild">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
-    </list>
+    <list default="true" id="d54ad8c4-e4fe-4d79-ad68-ae15cc468b30" name="Default Changelist" comment="To do list papild" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +63,7 @@
       <updated>1604906745930</updated>
       <workItem from="1604906747162" duration="19983000" />
       <workItem from="1605017331333" duration="76000" />
+      <workItem from="1614151513485" duration="308000" />
     </task>
     <task id="LOCAL−00001" summary="To do list">
       <created>1605017520092</created>
@@ -87,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="To do list" />

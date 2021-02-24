@@ -6,15 +6,25 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="d54ad8c4-e4fe-4d79-ad68-ae15cc468b30" name="Default Changelist" comment="To do list papild">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +43,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1k2looQhnfrFjfIDQ07nHO0iBf8" />
   <component name="ProjectViewState">
@@ -44,8 +60,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS pratybos lentele" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +75,12 @@
       <updated>1604906745930</updated>
       <workItem from="1604906747162" duration="19983000" />
       <workItem from="1605017331333" duration="76000" />
+
+      <workItem from="1614151513485" duration="1466000" />
+
+      <workItem from="1614151528093" duration="1075000" />
+      <workItem from="1614152644287" duration="340000" />
+
     </task>
     <task id="LOCAL−00001" summary="To do list">
       <created>1605017520092</created>
@@ -87,6 +110,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="To do list" />
@@ -94,17 +118,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="To do list papild" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="546" y="130" key="FileChooserDialogImpl" timestamp="1605041405774">
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614152884083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="546" y="130" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605041405774" />
-    <state x="476" y="114" key="Vcs.Push.Dialog.v2" timestamp="1605080991983">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="476" y="114" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605080991983" />
-    <state x="612" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605038613689">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="612" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605038613689" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1614152884083" />
   </component>
 </project>
